@@ -4,14 +4,14 @@ title: About
 permalink: /about/
 published: true
 ---
-###### Get in contact with me.
+Get in contact with me.
 
 [mathew@m..b.com](http://scr.im/mateh)
 
 
 **PGP**
 
-````-----BEGIN PGP PUBLIC KEY BLOCK-----
+ ````-----BEGIN PGP PUBLIC KEY BLOCK-----
 mQGNBFaCpb8BDAC3ljEEe2tVIS7acJ2g9UOR92PIk61YEX8gvV4goPHoudGf9LMj676767676767676767675767687878787878
 qYb2J169NajEKxHZY987q/5o9wYUpt9MngqPUw/vrfCQtcuqdYpNM8vR6QTWIy30
 /62/W2X1o5fNbUTj0spgPhYZAT3WIOWmpD9anqGMX/EyZli1HAPDLsu0ViUyIO6g
@@ -49,4 +49,4 @@ tHGHYGBakB8vmWq+xzEXVPCKnOQu+e99ZWeiqGRyxvBg2oo9Gn7jOljIMcohwcNL
 BH441CFd2dsej3Df/o0ku3fQrsxRsd81DP7LQKFqEXdb9/32W7qsISm2YlyA1kXg
 Ha8+a+UrygJG2mD0xHlSHdsbWUlf
 =SMxg
------END PGP PUBLIC KEY BLOCK-----````
+-----END PGP PUBLIC KEY BLOCK-----```` 
