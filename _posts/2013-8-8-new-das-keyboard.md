@@ -1,3 +1,7 @@
+---
+typora-root-url: ..
+---
+
 ![Das Keyboard](/assets/2013-8-8-new-das-keyboard/dask.png)
 
 So yesterday I received my new [Das Model S Professional (Cherry MX Red)](http://store.daskeyboard.com/Professional-Model-S-Quiet/dp/B00COQTY7S) keyboard.
