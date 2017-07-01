@@ -17,6 +17,11 @@
 //  white-space: pre;
 //}
 
+code {
+    font-family: 'Bitstream Vera Sans Mono','Courier', monospace;
+font-size: 14px;
+}
+
 html {
   font-size: 100%;
 }
@@ -269,7 +274,7 @@ nav {
     border-left: 2px solid $gray;
     padding: 0.1em 1em;
     color: $gray;
-    font-size: 14px;
+    font-size: 22px;
     font-style: italic;
   }
 
