@@ -13,9 +13,9 @@
 /* BASE RULES */
 /**************/
 
-pre code{
-  white-space: pre;
-}
+//pre code{
+//  white-space: pre;
+//}
 
 html {
   font-size: 100%;
@@ -269,7 +269,7 @@ nav {
     border-left: 2px solid $gray;
     padding: 0.1em 1em;
     color: $gray;
-    font-size: 22px;
+    font-size: 14px;
     font-style: italic;
   }
 
