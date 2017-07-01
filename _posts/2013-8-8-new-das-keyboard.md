@@ -11,3 +11,7 @@ I have always been a fan of silent/quiet keyboards, however a beautiful mechanic
 I was using a cheapo Logitech K120 after rage-swapping from my old Razer Lycosa. The keyboard is significantly heavier and much more spaced out than the K120. As a result, my typing speed has not improved yet as I am still adjusting to the space differentiation between the two keyboards. I expect this to be a quick process and typing speed should definitely increase soon. I can pull 96 words per minute as it currently stands (which is actually a small improvement over the K120).
 
 I picked it up for $185 AUD including shipping. I can easily say it was well worth it considering the keyboard is one of the most important peripherals on a computer.
+
+
+
+![Das Keyboard WSAD](/assets/2013-8-8-new-das-keyboard/dasgreenkeys.jpg)
