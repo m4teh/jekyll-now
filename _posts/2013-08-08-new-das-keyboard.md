@@ -4,7 +4,7 @@ slug: das-keyboard-cherry-mx
 title: New Das Keyboard
 categories:
 - Technology
-images:  /assets/2013-8-8-new-das-keyboard/
+images:  /assets/2013-08-08-new-das-keyboard/
 ---
 
 ![Das Keyboard]({{page.images}}dask.png)

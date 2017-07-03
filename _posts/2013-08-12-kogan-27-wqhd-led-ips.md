@@ -4,7 +4,7 @@ slug: kogan-27"-wqhd-2560x1440-led-ips
 title: Kogan 27″ WQHD 2560×1440 LED IPS monitors
 categories:
 - Technology
-images:  /assets/2013-8-12-kogan-27-wqhd-led-ips/
+images:  /assets/2013-08-12-kogan-27-wqhd-led-ips/
 ---
 
 | ![Kogan Monitor]({{page.images}}kogan1.jpg) | ![Kogan Monitor]({{page.images}}kogan2.jpg) |

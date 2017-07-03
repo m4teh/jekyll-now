@@ -4,7 +4,7 @@ slug: braun-bnc014bkrc-clock
 title: Braun BNC014BK-RC clock
 categories:
 - Reviews
-  images:  /assets/2013-8-23-braun-BNC014BK-rc-clock/
+  images:  /assets/2013-08-23-braun-BNC014BK-rc-clock/
 ---
 
 | ![Braun Clock]({{page.images}}braun1.jpg) | ![Braun Clock]({{page.images}}braun2.jpg) |

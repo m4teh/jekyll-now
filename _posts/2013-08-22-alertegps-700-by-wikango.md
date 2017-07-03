@@ -4,7 +4,7 @@ slug: alertegps-wikango
 title: AlerteGPS 700 by Wikango
 categories:
 - Reviews
-images:  /assets/2013-8-22-alertegps-700-by-wikango/
+images:  /assets/2013-08-22-alertegps-700-by-wikango/
 ---
 ![AlerteGPS 700 by Wikango]({{page.images}}wikango1.jpg)
 
