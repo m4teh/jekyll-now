@@ -20,3 +20,4 @@ The large form factor means it can be mounted on the wall and easily viewed from
 
 The only thing which is sort-of annoying is that the colon between the hh and mm constantly blinks, a solid colon would be preferred as it seems to catch my attention every now and again. The clock is radio controlled (otherwise known as atomic) however Australia does not run any form of time radio control frequency, so I had to set everything manually.
 Overall, it’s a simple but effective touch. No issues with the clock as of yet, but for heavens sake, it’s a clock…. So I sure hope there wouldn’t be.
+a
