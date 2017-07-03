@@ -7,10 +7,6 @@ categories:
 images:  /assets/2013-8-8-new-das-keyboard/
 ---
 
-Test :)
-
-
-
 ![Das Keyboard]({{page.images}}dask.png)
 
 So yesterday I received my new [Das Model S Professional (Cherry MX Red)](http://store.daskeyboard.com/Professional-Model-S-Quiet/dp/B00COQTY7S) keyboard.
@@ -27,4 +23,4 @@ I picked it up for $185 AUD including shipping. I can easily say it was well wor
 
 
 
-![Das Keyboard WSAD](/assets/2013-8-8-new-das-keyboard/dasgreenkeys.jpg)
+![Das Keyboard WSAD]({{page.images}}dasgreenkeys.jpg)
