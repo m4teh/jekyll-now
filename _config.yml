@@ -18,14 +18,14 @@ avatar: https://pbs.twimg.com/profile_images/803223300553854976/1iM-EnOc_400x400
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: http://scr.im/mateh
+  email:
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github:
   instagram:
   linkedin:
   pinterest:
-  rss: # just type anything here for a working RSS icon
+  rss: anything # just type anything here for a working RSS icon
   twitter: _mateh
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>

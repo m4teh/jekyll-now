@@ -50,8 +50,3 @@ Ha8+a+UrygJG2mD0xHlSHdsbWUlf
 =SMxg
 -----END PGP PUBLIC KEY BLOCK-----
 ```
-
-
-
-
-

@@ -1,8 +1,18 @@
 ---
-typora-root-url: ..
+author: Mathew Estrada
+slug: das-keyboard-cherry-mx
+title: New Das Keyboard
+categories:
+- Technology
+image: /assets/2013-8-8-new-das-keyboard/featured-image.png
+images:  /assets/2013-8-8-new-das-keyboard/
 ---
 
-![Das Keyboard](/assets/2013-8-8-new-das-keyboard/dask.png)
+Test :)
+
+
+
+![Das Keyboard]({{page.images}}dask.png)
 
 So yesterday I received my new [Das Model S Professional (Cherry MX Red)](http://store.daskeyboard.com/Professional-Model-S-Quiet/dp/B00COQTY7S) keyboard.
 
