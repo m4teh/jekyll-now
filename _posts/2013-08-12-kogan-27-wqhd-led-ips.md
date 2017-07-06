@@ -15,6 +15,7 @@ I had been looking for a monitor upgrade for a while now. I guess it was just a 
 
 <!-- more -->
 
+
 Kogan has since released a newer version of the monitor with impressive enhancements. The response time has been slashed to 6.5ms and the stand now tilts, swivels and is height adjustable.It is speculated that Kogan use the LG LM270WQ1 panel, the same kind found in the Apple Thunderbolt displays.
 There is absolutely no complaints with colour, clarity, quality, usability or.. anything really. It seems like a perfectly suitable piece of hardware, especially for it’s price!
 
