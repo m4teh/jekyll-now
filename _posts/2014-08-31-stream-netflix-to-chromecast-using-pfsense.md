@@ -33,7 +33,7 @@ This guide assumes:
 
 The domains that we need to override are:
 
-> netflix.com
+> netflix.com  
 > movies.netflix.com
 
 *You will need to obtain the Smart DNS IP address from your DNS provider. For example, Getflix operates the servers listed on this page. You should pick the closest server and use this as the override IP. Mine is 54.252.183.4.*
@@ -51,7 +51,7 @@ This is enough to access Netflix on other services such as your PC or Mac. Howev
 
 > **Interface:** LAN  
 > **Protocol:** TCP/UDP  
-> **Source:** any (or enter Chromecast LAN IP in ‘Single host or alias’)  
+> **Source:** any (or Chromecast LAN IP in ‘Single host or alias’)  
 > **Source Port:** any  
 > **Destination:** any  
 > **Destination port:** DNS  
