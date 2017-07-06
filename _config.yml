@@ -52,6 +52,10 @@ baseurl: ""
 # Set a custom excerpt value
 excerpt_separator: <!--more-->
 
+# Sets the amount of posts per page
+paginate: 8
+
+
 #
 # !! You don't need to change any of the configuration flags below !!
 #
