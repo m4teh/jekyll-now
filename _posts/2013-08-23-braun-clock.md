@@ -1,14 +1,12 @@
 ---
 author: Mathew Estrada
 title: Braun BNC014BK-RC Clock
+slug: braun-bnc014BK-clock
 categories:
 - Reviews
 images:  /assets/2013-08-23-braun-clock/
 ---
-
-| ![Braun Clock]({{page.images}}braun1.jpg) | ![Braun Clock]({{page.images}}braun2.jpg) |
-| ---------------------------------------- | ---------------------------------------- |
-|                                          |                                          |
+![Braun Clock]({{page.images}}braun-cover.jpg)
 
 I’ve been on a bit of a purchase frenzy as of late. 
 Earlier this year I upgraded my bedroom furniture. I bought a new desk, new chair and new stainless steel drawer.
@@ -19,3 +17,7 @@ The large form factor means it can be mounted on the wall and easily viewed from
 
 The only thing which is sort-of annoying is that the colon between the hh and mm constantly blinks, a solid colon would be preferred as it seems to catch my attention every now and again. The clock is radio controlled (otherwise known as atomic) however Australia does not run any form of time radio control frequency, so I had to set everything manually.
 Overall, it’s a simple but effective touch. No issues with the clock as of yet, but for heavens sake, it’s a clock…. So I sure hope there wouldn’t be.
+
+| ![Braun Clock]({{page.images}}braun1.jpg) | ![Braun Clock]({{page.images}}braun2.jpg) |
+| ---------------------------------------- | ---------------------------------------- |
+|                                          |                                          |
