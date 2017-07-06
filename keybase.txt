@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/mateh
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://mathew.id.au
+  * I am mateh (https://keybase.io/mateh) on keybase.
+  * I have a public key ASAG4myJPoHucz7O-jfYfcetbQVSCn8Pa1lNI8L_k_1Gkgo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "012006e26c893e81ee733ecefa37d87dc7ad6d05520a7f0f6b594d23c2ff93fd46920a",
+            "host": "keybase.io",
+            "kid": "012006e26c893e81ee733ecefa37d87dc7ad6d05520a7f0f6b594d23c2ff93fd46920a",
+            "uid": "b708e42cc5c3c4026519ff1155b54419",
+            "username": "mateh"
+        },
+        "merkle_root": {
+            "ctime": 1499344830,
+            "hash": "7ef825e36265f4e5ad4413a09c789a2d46b76a43b5dbd272d0343edf14d58d01a4180dcdd2cfdc8a193abf28f9e4a94cf6a284524366daf6c7190aa1aaeab8dc",
+            "hash_meta": "6dd40388b249a9280428202fa2f148750539460702f778e77b2dcc227664ffa7",
+            "seqno": 1214362
+        },
+        "service": {
+            "hostname": "mathew.id.au",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.24"
+    },
+    "ctime": 1499344847,
+    "expire_in": 504576000,
+    "prev": "5ce0191b9fcbddf74b0017e594010270f8391eebc1b11b546b6b94aef1a7969c",
+    "seqno": 6,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgBuJsiT6B7nM+zvo32H3HrW0FUgp/D2tZTSPC/5P9RpIKp3BheWxvYWTFA0B7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwMDZlMjZjODkzZTgxZWU3MzNlY2VmYTM3ZDg3ZGM3YWQ2ZDA1NTIwYTdmMGY2YjU5NGQyM2MyZmY5M2ZkNDY5MjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMDZlMjZjODkzZTgxZWU3MzNlY2VmYTM3ZDg3ZGM3YWQ2ZDA1NTIwYTdmMGY2YjU5NGQyM2MyZmY5M2ZkNDY5MjBhIiwidWlkIjoiYjcwOGU0MmNjNWMzYzQwMjY1MTlmZjExNTViNTQ0MTkiLCJ1c2VybmFtZSI6Im1hdGVoIn0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDk5MzQ0ODMwLCJoYXNoIjoiN2VmODI1ZTM2MjY1ZjRlNWFkNDQxM2EwOWM3ODlhMmQ0NmI3NmE0M2I1ZGJkMjcyZDAzNDNlZGYxNGQ1OGQwMWE0MTgwZGNkZDJjZmRjOGExOTNhYmYyOGY5ZTRhOTRjZjZhMjg0NTI0MzY2ZGFmNmM3MTkwYWExYWFlYWI4ZGMiLCJoYXNoX21ldGEiOiI2ZGQ0MDM4OGIyNDlhOTI4MDQyODIwMmZhMmYxNDg3NTA1Mzk0NjA3MDJmNzc4ZTc3YjJkY2MyMjc2NjRmZmE3Iiwic2Vxbm8iOjEyMTQzNjJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoibWF0aGV3LmlkLmF1IiwicHJvdG9jb2wiOiJodHRwOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4yNCJ9LCJjdGltZSI6MTQ5OTM0NDg0NywiZXhwaXJlX2luIjo1MDQ1NzYwMDAsInByZXYiOiI1Y2UwMTkxYjlmY2JkZGY3NGIwMDE3ZTU5NDAxMDI3MGY4MzkxZWViYzFiMTFiNTQ2YjZiOTRhZWYxYTc5NjljIiwic2Vxbm8iOjYsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAZXB/YAHGHOmwb177YPtaskDthjn8RaRpsmzec/xVkKNeieN/yk9c6Fy6rElxBB3Jv2C6Gz47JePfoMTtEHAACahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIDcxxXUZIDXh/6igeDBp1oTW9TBb2GAU9WIP2nRIn9T+o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mateh
+
+==================================================================
