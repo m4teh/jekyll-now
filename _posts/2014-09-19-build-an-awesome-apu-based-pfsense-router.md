@@ -6,7 +6,7 @@ categories:
 - Tutorial
 images:  /assets/2014-09-19-build-an-awesome-apu-based-pfsense-router/
 ---
-![AlerteGPS 700 by Wikango]({{page.images}}wikango1.jpg)
+![pfSense logo]({{page.images}}pfsense.png)
 
 I have been running pfSense under VirtualBox for many years now. Whilst I like it, I prefer to run a standalone instance because I have a 100mbit internet connection and this pulls a lot of resources. It’s neater, tidier can perform a touch better and quite frankly I wanted a non-windows dependent firewall router that didn’t have to be rebooted for Windows Updates or VirtualBox instability.
 
