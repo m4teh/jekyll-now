@@ -49,8 +49,8 @@ This is enough to access Netflix on other services such as your PC or Mac. Howev
 1. **Navigate to Firewall > NAT > Port Forward.**
 2. **Add a new entry with the following details:**
 
-> **Interface:** LAN
-> **Protocol:** TCP/UDP
+> **Interface:** LAN<br>
+> **Protocol:** TCP/UDP<br>
 > **Source:** any (or enter Chromecast LAN IP in ‘Single host or alias’)
 > **Source Port:** any
 > **Destination:** any
@@ -58,7 +58,6 @@ This is enough to access Netflix on other services such as your PC or Mac. Howev
 > **Redirect Target IP**: IP address of your pfSense router/gateway
 > **Redirect Target Port:** DNS
 > **Filter Rule Association:** None
->
 
  
 
