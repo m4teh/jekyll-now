@@ -49,6 +49,9 @@ url: http://mathew.id.au
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: ""
 
+
+excerpt_separator: "<!--excerpt-->"
+
 #
 # !! You don't need to change any of the configuration flags below !!
 #
