@@ -12,8 +12,6 @@ I recently completed a fast in which I consumed nothing but water for seven days
 
 The notion of a water-only fast was non existent in my list of priorities until I came across a few episodes on the Smart Drug Smarts podcast. There are several episodes that feature various medical doctors and professors that specialise in the area of fasting and the study of subsequent health effects/benefits on humans. I can be a pretty lazy person in honesty, so I thought.. Not having to worry about any food preparation for seven days? Sure.
 
-<!--excerpt-->
-
 Key pointers of complete caloric restriction and my experiences:
 
 - Reducing the intake of carbohydrates to less than 20-50g per day will put the body in to a state of ketosis. This is where your body starts burning stored body fat instead of glucose (carbs). This is a perfectly normal biological function.
