@@ -71,7 +71,7 @@ Windows Azure was my first trial of cloud based computing. It gave me an insight
 
 
 
-[![vultrlogo](vultr.png)](http://www.vultr.com/?ref=6806586)
+[![vultrlogo]({{page.images}}vultr.png)](http://www.vultr.com/?ref=6806586)
 
 Vultr was brought to my attention by a thread on Whirlpool discussing low-cost VPS solutions. Upon initial observations, I was impressed at how clearly and simply the information was presented on their website. The fact you can run a VPS for \$5 a month is exciting. I immediately signed up and added credit to my account.
 
