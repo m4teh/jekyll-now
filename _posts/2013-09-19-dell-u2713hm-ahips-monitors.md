@@ -5,7 +5,7 @@ title: Dell U2713HM 27″ 2560×1440 AH-IPS Monitors
 categories:
 - Reviews
 - Technology
-images:  /assets/2013-08-22-alertegps-700-by-wikango/
+images:  /assets/2013-09-19-dell-u2713hm-ahips-monitors/
 ---
 
 So, as previously posted, I went online and purchased three new Dell advanced high performance panels for my setup.

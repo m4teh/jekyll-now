@@ -18,3 +18,5 @@ All in all, great little accessory. It adds to the aesthetics and enjoyment of t
 
 Paying using eBay (in comparison to Amazon) turned out a little cheaper with shipping. At the time of writing, it appears the eBay listing has expired or they ran out of stock, because it is no longer listed.
 Also – if you are purchasing from overseas using PayPal with a credit card, always choose the bank currency conversion option instead of PayPal’s conversion, you’ll save some dollars, less your banks currency conversion fee.
+
+![VendorGear Headrest for Herman Miller Aeron]({{page.images}}vendorgear.jpg)

@@ -16,7 +16,7 @@ The ability to spin up virtual servers for deployment within seconds is extremel
 
  
 
-[![amazon-aws-logo](aws.jpg)](https://aws.amazon.com/)
+![amazon-aws-logo]({{page.images}}aws.jpg)
 
 Amazon AWS EC2 was my second cloud adventure and is a lot of fun to mess around with. One of the best things about AWS is the one year [free tier](https://aws.amazon.com/free/). This allows you to operate free virtual servers in certain circumstances (low-cost *t2.micro* instance) for one year, before you start being charged standard instance rates. You also get 15gb of data transfer before you start getting charged (going over your 15gb free data threshold doesn’t cancel the free instance tier, you simply pay for the extra data you use).
 
@@ -45,7 +45,7 @@ This is perfect for anybody wanting to run a small/small-medium website.
 
 
 
-[![windows-azure](azure.png)](http://azure.microsoft.com/)
+![windows-azure]({{page.images}}azure.png)
 
 Windows Azure was my first trial of cloud based computing. It gave me an insight into what the cloud could offer and how it works. Unfortunately I wasn’t very happy with Azure and that’s when I decided to move on to Amazon AWS to see if it picks up the slack. Disclaimer: I used Azure very little in comparison to these other cloud services. It certainly wasn’t an extensive experience, so take this information (or lack thereof) with a grain of salt.
 

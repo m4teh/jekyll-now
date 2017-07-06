@@ -38,7 +38,7 @@ The domains that we need to override are:
 
 *You will need to obtain the Smart DNS IP address from your DNS provider. For example, Getflix operates the servers listed on this page. You should pick the closest server and use this as the override IP. Mine is 54.252.183.4.*
 
-![pfSense Domain Overrides](domainoverride.png)
+![pfSense Domain Overrides]({{page.images}}domainoverride.png)
 
 This is enough to access Netflix on other services such as your PC or Mac. However, because Chromecast is hard wired to use Google DNS instead of your router DNS, we need to perform one extra step.
 
@@ -62,7 +62,7 @@ This is enough to access Netflix on other services such as your PC or Mac. Howev
 
  
 
-![pfSense NAT Redirection](nat.png)
+![pfSense NAT Redirection]({{page.images}}nat.png)
 
  
 
