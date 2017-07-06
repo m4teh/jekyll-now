@@ -1,6 +1,6 @@
 ---
 author: Mathew Estrada
-slug: alertegps-wikango
+slug: cloudflare-universal-ssl-wordpress
 title: CloudFlare Universal SSL on WordPress
 categories:
 - Tutorial

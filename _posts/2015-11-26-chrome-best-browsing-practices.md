@@ -1,9 +1,9 @@
 ---
 author: Mathew Estrada
-slug: alertegps-wikango
-title: AlerteGPS 700 by Wikango
+slug: chrome-browsing-practices
+title: Chrome best browsing practices
 categories:
-- Reviews
+- General
 images:  /assets/2015-11-26-chrome-best-browsing-practices/
 ---
 Chromium is my browser of choice. I’ve tinkered with settings and obtained the best usability vs privacy trade-off for my liking.
