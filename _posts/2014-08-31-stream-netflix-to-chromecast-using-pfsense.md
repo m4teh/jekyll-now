@@ -14,13 +14,14 @@ Chromecast by default uses Google DNS instead of your router for DNS lookups and
 
 This guide assumes:
 
+<!--more-->
+
 - You have a Netflix account
 
 - You are using pfSense
 
 - You have a Smart DNS provider (e.g. [getflix.com.au](http://getflix.com.au/))
-
-  <!--more-->
+  ​
 
 
 

@@ -12,8 +12,7 @@ images:  /assets/2013-08-12-kogan-27-wqhd-led-ips/
 |                                          |                                          |
 
 I had been looking for a monitor upgrade for a while now. I guess it was just a matter of getting the funds together. I’ve been using a single 22″ LCD and only very recently started using a spare 22″ in dual configuration.I looked at the Kogan 27″ monitor when they first released it. In all honesty, it didn’t appeal to me very much. The first generation monitor had a 12ms response time, and the stand would only tilt.
-
-<!-- more -->
+<!--more-->
 
 
 Kogan has since released a newer version of the monitor with impressive enhancements. The response time has been slashed to 6.5ms and the stand now tilts, swivels and is height adjustable.It is speculated that Kogan use the LG LM270WQ1 panel, the same kind found in the Apple Thunderbolt displays.
