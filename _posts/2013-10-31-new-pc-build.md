@@ -1,6 +1,5 @@
 ---
 author: Mathew Estrada
-slug: alertegps-wikango
 title: New PC Build. It's official!
 categories:
 - General
