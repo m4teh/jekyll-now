@@ -11,11 +11,18 @@ Chromium is my browser of choice. I’ve tinkered with settings and obtained the
 Before I go into detail about specific settings, a couple of pointers..
 
 1. **I browse with JavaScript disabled**. I have an extension that toggles websites on/off. It’s actually quite practical and you should try it. The security gain is worth it. During writing of this, I even saw [an article on WiRED](http://www.wired.com/2015/11/i-turned-off-javascript-for-a-whole-week-and-it-was-glorious/) about the same thing.
+
 2. I aim to **clear most settings on browser exit**, somewhat resembling the Firefox ‘never remember history’ permanent private browsing mode.
+
 3. I use an [updater for the open source Chromium](http://chromium.woolyss.com/download/), instead of the Google Chrome software package.
+
 4. **Certain cookies are white listed** so they aren’t cleared on restart (lastpass, duckduckgo etc)
+
 5. My primary search engine is non-tracking **DuckDuckGo**.
+
 6. If you’re doing a fresh install, check and clear your “All cookies and site data” prior to browsing as Google likes to throw in a bunch of cookies and local storage for Google services after installation.
+
+   <!--more-->
 
 ### Settings
 

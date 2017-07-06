@@ -11,6 +11,8 @@ I have owned the Aeron for a good few months now. It is a great chair in itself,
 
 Luckily, [VendorGear](http://vendorgear.com/) manufacture a third party headrest that fits perfectly onto the Aeron, you can’t even tell it’s not proprietary.
 
+<!--more-->
+
 The headrest itself is mounted to the back of the chair using an allen key to secure it. There are a plethora of adjustment options available to customise it to your optimal sitting position, including up & down, forward & backward and tilt up/tilt down.
 The headrest can be tilted up or down very easily while you are sitting in the chair, great for when you change your sitting position, angle or height.
 

@@ -18,6 +18,8 @@ The APU is a cheap little fan less (passively cooled) device that incorporates a
 
 Things you will need:
 
+<!--more-->
+
 - \$127 – \$155 – PC Engines [APU1C](http://www.pcengines.ch/apu1c.htm) or [APU1D4](http://www.pcengines.ch/apu1c4.htm) (2GB vs 4GB RAM)
 
 - \$5.00 – [EU](http://www.pcengines.ch/ac12veur2.htm),  [UK](http://www.pcengines.ch/ac12vuk.htm), [US](http://www.pcengines.ch/ac12vus.htm) or [AU ](http://www.jaycar.com.au/productView.asp?ID=MP3490)power adapter

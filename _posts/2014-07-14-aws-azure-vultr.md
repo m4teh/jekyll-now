@@ -10,7 +10,7 @@ images:  /assets/2014-07-14-aws-azure-vultr/
 I have been playing around with cloud based virtual server applications for a few months now and I thought I’d share a non-technical summary of each.
 The ability to spin up virtual servers for deployment within seconds is extremely handy and provides endless possibilities. Web servers, game servers, file servers, VPN servers, VoIP servers, dummy test servers, almost anything really. This is just a very quick recap on what I find most appealing (or not) about each service.
 
-
+<!--more-->
 
 > If you can’t be bothered reading: I give a clear victory to Vultr for their innovation, uniqueness and very low-cost affordability. See below for details.
 

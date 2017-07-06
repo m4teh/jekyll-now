@@ -12,6 +12,8 @@ The AlerteGPS 700 unit by Wikango is a GPS based device that reads a database of
 
 The unit is not a radar detector and is completely legal to own and operate in any state or country. It is no different to ordinary nav devices, such as Garmin or Navman. The device will also alert you to known mobile camera hotspots, school zones (with time support, so you will not be notified outside of school-zone hours), and railway crossings/danger spots.
 
+<!--more-->
+
 I have been looking at purchasing a similar device in the past, namely, the Cheetah C50. There is a very large user base for the Cheetah unit and a not-so-large customer base for the Wikango unit (so it seems). 
 At first, I was reluctant to purchase the 700. I struggled to find many (if any at all) English reviews or YouTube demonstrations. I bit the bullet and purchased one anyway, considering Ryda.com.au had it on sale for $118 (delivered free with a coupon found on OzBargain). The Wikango features free, lifetime database updates and there are absolutely no hidden costs or fees. The Cheetah unit costs more (around the AU 170 mark if I remember correctly), and then you need to pay ongoing subscriptions fees on top of this to keep the database/device current. The thing I liked about this company was that the AlerteGPS website has their comprehensive camera database available online, so I was able to verify some common speed camera locations for authenticity prior to purchasing.
 

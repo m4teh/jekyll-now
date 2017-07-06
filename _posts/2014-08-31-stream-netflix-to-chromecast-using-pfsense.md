@@ -20,7 +20,7 @@ This guide assumes:
 
 - You have a Smart DNS provider (e.g. [getflix.com.au](http://getflix.com.au/))
 
-  ​
+  <!--more-->
 
 
 

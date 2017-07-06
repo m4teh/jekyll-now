@@ -12,6 +12,8 @@ So, as previously posted, I went online and purchased three new Dell advanced hi
 How do I describe these monitors…? Wow. Just wow. These are by far the best monitors I have ever used. 
 I won’t go into depth about every feature of the monitor, this is just a quick overview of my experience thus far.
 
+<!--more-->
+
 **Design**
 
 The look of these units is extremely elegant and sexy. The stand is extremely neat, not overly bulky and it is just an overall fresh piece of hardware with a professional look.

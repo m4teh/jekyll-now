@@ -13,6 +13,8 @@ So here we are.
 
 After almost six years running a dual core E6850 and a shitty video card, the new build has arrived. 
 
+<!--more-->
+
 I placed the order for the above components the other night. I decided not to build it myself as.. well.. quite frankly, I just can’t be bothered. 
 I’ve built many computers in the past and I’d rather pay somebody to do it for me since money isn’t an issue. 
 

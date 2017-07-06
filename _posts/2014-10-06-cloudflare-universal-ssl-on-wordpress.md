@@ -15,6 +15,8 @@ You may have heard. CloudFlare recently announced free SSL for all websites on i
 
 It is important to note that this “Flexible SSL” method will only encrypt traffic from the visitor to the CloudFlare CDN. All data transmitted from the web server to CloudFlare (and visa versa) will be insecure. This is okay for personal or websites with no critical information being transmitted, but not for websites wishing to secure personal information (e.g. eCommerce).
 
+<!--more-->
+
 If you run a WordPress blog, enable development mode in CloudFlare web panel (to disable caching) and then install the [WordPress HTTPS](https://wordpress.org/plugins/wordpress-https/) and optionally the [HTTPS Insecure Content Fixer](https://wordpress.org/plugins/ssl-insecure-content-fixer/) (it may help fix anything broken) plugins.
 
 I still had some issues with loading of insecure content after installing these plugins. One extra thing I had to do was modify my **wp-config.php** and add this above the **require_once**. This is because we are now behind a reverse proxy.

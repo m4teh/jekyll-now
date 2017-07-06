@@ -11,6 +11,8 @@ I have been in need of a NAS refresh for some time now. I was using a 4 bay [Syn
 
 I decided on a FreeNAS build. I do not regret it. I went with a UFS file system. Although ZFS was preferable, proper operating procedures requires ECC RAM which then requires a server motherboard compatible with all the features that I want, including CPUs. I decided I couldn’t be bothered and I just settled for a desktop based machine utilising UFS, which is also quite a bit cheaper.
 
+<!--more-->
+
 Newegg listings are just for reference. Use staticice.com(.au, .nz, .co.uk) to find the lowest local pricing.
 
 
