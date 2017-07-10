@@ -1,6 +1,5 @@
 ---
 author: Mathew Estrada
-slug: pfsense-apu-router
 title: Build an awesome APU based pfSense Router
 categories:
 - Tutorial

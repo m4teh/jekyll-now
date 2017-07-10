@@ -1,6 +1,5 @@
 ---
 author: Mathew Estrada
-slug: aws-azure-vultr
 title: Cloud comparison – Amazon AWS vs Microsoft Azure vs Vultr
 categories:
 - Technology

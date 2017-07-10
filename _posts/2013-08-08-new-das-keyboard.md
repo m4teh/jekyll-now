@@ -1,6 +1,5 @@
 ---
 author: Mathew Estrada
-slug: das-keyboard-cherry-mx
 title: New Das Keyboard
 categories:
 - Technology

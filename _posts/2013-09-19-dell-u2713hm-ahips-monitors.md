@@ -1,6 +1,5 @@
 ---
 author: Mathew Estrada
-slug: dell-u2713hm-2560x1440-monitors
 title: Dell U2713HM 27″ 2560×1440 AH-IPS Monitors
 categories:
 - Reviews

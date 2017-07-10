@@ -1,6 +1,5 @@
 ---
 author: Mathew Estrada
-slug: vendorgear-headrest-aeron
 title: VendorGear headrest for Herman Miller Aeron
 categories:
 - Reviews

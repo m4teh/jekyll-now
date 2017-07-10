@@ -1,6 +1,5 @@
 ---
 author: Mathew Estrada
-slug: monitor-configuration-six
 title: Monitor configuration times 6 (Dell U2713HM)
 categories:
 - Technology

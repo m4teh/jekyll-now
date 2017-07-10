@@ -1,6 +1,5 @@
 ---
 author: Mathew Estrada
-slug: kogan-warrany-experience
 title: Kogan Warranty Experience
 categories:
 - General

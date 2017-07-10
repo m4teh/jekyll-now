@@ -1,6 +1,5 @@
 ---
 author: Mathew Estrada
-slug: stream-netflix-chromecast-pfsense
 title: How to stream Netflix to Chromecast using pfSense
 categories:
 - Tutorial

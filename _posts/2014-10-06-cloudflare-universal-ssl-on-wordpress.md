@@ -1,6 +1,5 @@
 ---
 author: Mathew Estrada
-slug: cloudflare-universal-ssl-wordpress
 title: CloudFlare Universal SSL on WordPress
 categories:
 - Tutorial

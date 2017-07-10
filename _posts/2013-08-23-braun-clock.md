@@ -1,7 +1,6 @@
 ---
 author: Mathew Estrada
 title: Braun BNC014BK-RC Clock
-slug: braun-bnc014BK-clock
 categories:
 - Reviews
 images:  /assets/2013-08-23-braun-clock/

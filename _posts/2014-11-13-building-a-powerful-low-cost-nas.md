@@ -1,6 +1,5 @@
 ---
 author: Mathew Estrada
-slug: powerful-low-cost-nas
 title: Building a powerful, low cost NAS
 categories:
 - Technology

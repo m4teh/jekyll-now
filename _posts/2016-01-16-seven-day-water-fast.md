@@ -1,6 +1,5 @@
 ---
 author: Mathew Estrada
-slug: 7-day-water-fast
 title: 7 day water fast
 categories:
 - Reviews

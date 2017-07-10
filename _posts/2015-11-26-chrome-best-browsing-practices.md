@@ -1,6 +1,5 @@
 ---
 author: Mathew Estrada
-slug: chrome-browsing-practices
 title: Chrome best browsing practices
 categories:
 - General

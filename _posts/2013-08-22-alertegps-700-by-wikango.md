@@ -1,6 +1,5 @@
 ---
 author: Mathew Estrada
-slug: alertegps-wikango
 title: AlerteGPS 700 by Wikango
 categories:
 - Reviews
