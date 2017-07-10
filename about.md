@@ -4,49 +4,10 @@ title: About
 permalink: /about/
 published: true
 ---
-Get in contact with me.
+This is a little place for me to put random writings.  Not much else to see here.
+
+
+
+Get in contact with me. PGP can be found on [Keybase](https://keybase.io/mateh) if needed.
 
 [mathew@m..b.com](http://scr.im/mateh)
-
-**PGP**
-```
------BEGIN PGP PUBLIC KEY BLOCK-----
-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
-Ha8+a+UrygJG2mD0xHlSHdsbWUlf
-=SMxg
------END PGP PUBLIC KEY BLOCK-----
-```
