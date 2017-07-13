@@ -5,7 +5,6 @@ categories:
 - Tutorial
 images:  /assets/2014-09-19-build-an-awesome-apu-based-pfsense-router/
 redirect_from: "/2014/09/build-awesome-apu-based-pfsense-router"
-redirect_from: "/2014/09/build-awesome-apu-based-pfsense-router/"
 redirect_from: "/test"
 ---
 ![pfSense logo]({{page.images}}pfsense.png)
