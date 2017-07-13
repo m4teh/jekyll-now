@@ -56,6 +56,10 @@ excerpt_separator: <!--more-->
 # Sets the amount of posts per page
 paginate: 8
 
+# Enable page redirects
+gems:
+  - jekyll-redirect-from
+
 
 #
 # !! You don't need to change any of the configuration flags below !!
