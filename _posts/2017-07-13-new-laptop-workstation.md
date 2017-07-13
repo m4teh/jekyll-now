@@ -9,7 +9,7 @@ images:  /assets/2017-07-13-new-laptop-workstation/
 
 I upgraded my ([old](/new-pc-build)) workstation several months ago and sold most of the monitors and desktop components.
 
-Now featuring a [Dell XPS 15 9560](http://www.dell.com/au/p/xps-15-9560-laptop/pd?ref=PD_OC) 2017 model, 2 x [U2713HM monitors](/dell-u2713hm-ahips-monitors) and a [Dell TB16 Thunderbolt Dock](http://www.dell.com/en-us/shop/dell-business-thunderbolt-dock-tb16-with-240w-adapter/apd/452-bcnu/pc-accessories).
+Now featuring a 2017 [Dell XPS 15 9560](http://www.dell.com/au/p/xps-15-9560-laptop/pd?ref=PD_OC), 2 x [U2713HM monitors](/dell-u2713hm-ahips-monitors) and a [Dell TB16 Thunderbolt Dock](http://www.dell.com/en-us/shop/dell-business-thunderbolt-dock-tb16-with-240w-adapter/apd/452-bcnu/pc-accessories).
 
 <!--more-->
 
