@@ -45,3 +45,5 @@ It has never missed a beat (a key, in this circumstance) and the Bluetooth perfo
 ![New Workstation]({{page.images}}dell1.JPG)
 
 ![New Workstation]({{page.images}}dell2.JPG)
+
+![Dell WK717 Wireless Keyboard]({{page.images}}keyboard.JPG)
