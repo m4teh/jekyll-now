@@ -1,6 +1,6 @@
 ---
 author: Mathew Estrada
-title: My new laptop workstation setup
+title: New laptop workstation
 categories:
 - General
 images:  /assets/2017-07-13-new-laptop-workstation/
