@@ -9,7 +9,7 @@ title: My Hardware
 - [Dell TB16 Thunderbolt Dock](http://www.dell.com/en-ca/shop/accessories/apd/452-bcnu?c=ca&l=en&s=dhs&cs=cadhs1&sku=452-BCNU)
 - [2 x Dell U2713HM monitors](http://www.dell.com/en-us/member/shop/productdetails/dell-u2713hm)
 - [Rain Design mStand](http://www.raindesigninc.com/mstand.html)
-- [Dell WK717 Bluetooth/Wireless keyboard](Dell WK717 Bluetooth/Wireless keyboard)
+- [Dell WK717 Bluetooth/Wireless keyboard](http://www.dell.com/en-us/work/shop/dell-premier-wireless-keyboard-wk717/apd/580-aflj/pc-accessories)
 
 **Sound**
 
