@@ -14,7 +14,7 @@ title: My Hardware
 **Sound**
 
 - [Sennheiser HD 800 Headphones](http://en-au.sennheiser.com/dynamic-headphones-high-end-around-ear-hd-800)
-- [Mayflower Electronics Objectice2 Headphone Amplifier + ODAC](https://www.mayflowerelectronics.com/shop/mayflower-custom-products/desktop-objective2-with-odac/)
+- [Mayflower Electronics Objectice2 Headphone Amplifier + ODAC](https://www.jdslabs.com/products/48/objective2-odac-combo-revb/)
 - [JDS Labs Objective2+ODAC Rev B](https://www.jdslabs.com/products/48/objective2-odac-combo-revb/)
 
 **Networking**
