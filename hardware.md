@@ -15,10 +15,11 @@ title: My Hardware
 
 - [Sennheiser HD 800 Headphones](http://en-au.sennheiser.com/dynamic-headphones-high-end-around-ear-hd-800)
 - [Mayflower Electronics Objectice2 Headphone Amplifier + ODAC](https://www.mayflowerelectronics.com/shop/mayflower-custom-products/desktop-objective2-with-odac/)
+- [JDS Labs Objective2+ODAC Rev B](https://www.jdslabs.com/products/48/objective2-odac-combo-revb/)
 
 **Networking**
 
-- [APU running pfSense firewall](https://mateh.id.au/2014/09/build-awesome-apu-based-pfsense-router/)
+- [APU running pfSense firewall](http://mateh.id.au/2014/09/build-awesome-apu-based-pfsense-router/)
 - [D-Link DIR-868L Wireless AC1750 Dual Band](http://www.dlink.com.au/home-solutions/wireless-ac1750-dual-band-gigabit-cloud-router-usb-3-0)
 - [D–Link DGS-1100-08 8-Port Gigabit EasySmart Switch](http://www.dlink.com.au/business-solutions/easysmart-8-port-gigabit-switch)
 - [Netgear GS105 5-port gigabit switch](http://www.netgear.com.au/service-provider/products/switches/unmanaged-desktop-switches/GS105.aspx)
@@ -38,4 +39,4 @@ title: My Hardware
 
 - [Cisco SPA525G](http://www.cisco.com/c/en/us/products/collateral/collaboration-endpoints/spa525g-5-line-ip-phone-color-display/data_sheet_c78-508997.html)
 - [Polaris HD Wireless](http://www.hd-wireless.com.au/)
-- [iPhone 6+ Gold 128GB](http://store.apple.com/us/buy-iphone/iphone6)
+- [iPhone 7 Plus Jet Black 128GB](https://www.apple.com/au/shop/buy-iphone/iphone-7)
