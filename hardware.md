@@ -18,14 +18,14 @@ title: My Hardware
 
 **Networking**
 
-- [APU running pfSense firewall](http://mateh.id.au/2014/09/build-awesome-apu-based-pfsense-router/)
+- [APU running pfSense firewall](http://mathew.id.au/build-an-awesome-apu-based-pfsense-router/)
 - [D-Link DIR-868L Wireless AC1750 Dual Band](http://www.dlink.com.au/home-solutions/wireless-ac1750-dual-band-gigabit-cloud-router-usb-3-0)
 - [D–Link DGS-1100-08 8-Port Gigabit EasySmart Switch](http://www.dlink.com.au/business-solutions/easysmart-8-port-gigabit-switch)
 - [Netgear GS105 5-port gigabit switch](http://www.netgear.com.au/service-provider/products/switches/unmanaged-desktop-switches/GS105.aspx)
 
 **Media**
 
-- [Custom built 16TB FreeNAS server](https://mateh.id.au/2014/11/building-powerful-low-cost-nas/)
+- [Custom built 16TB FreeNAS server](http://mathew.id.au/building-a-powerful-low-cost-nas/)
 - [Elgato EyeTV Netstream DTT dual HD tuner](http://www.elgato.com/uk/eyetv/eyetv-netstream-dtt)
 
 **Miscellaneous**
