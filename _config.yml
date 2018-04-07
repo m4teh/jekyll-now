@@ -9,7 +9,7 @@ name: mateh blog
 description: a bit of everything and nothing.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: images/profile.jpg
+avatar: /images/profile.jpg
 
 #
 # Flags below are optional
